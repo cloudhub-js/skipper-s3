@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/skipper-s3.git"
+    "url": "git://github.com/cloudhub-js/skipper-s3.git"
   },
   "keywords": [
     "s3",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://sailsjs.com/bugs"
   },
-  "homepage": "https://github.com/balderdashy/skipper-s3",
+  "homepage": "https://github.com/cloudhub-js/skipper-s3",
   "dependencies": {
     "@sailshq/lodash": "^3.10.2",
     "aws-sdk": "2.391.0",
